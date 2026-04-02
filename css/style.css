@@ -402,4 +402,10 @@ a {
 
 .last-paragraph {
     display: block;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 24px;
+    font-family: UBN;
 }
